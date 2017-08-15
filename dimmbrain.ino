@@ -1,4 +1,5 @@
 /*
+ 15.08.2017 - wooldoorsockbat: upload to github
  Steuert die Deckenlampe in Helligkeit (Strip 1) und Farbe (Strip 2); Steuerung per IR-Fernbedienung; auto.
  Helligkeitssteuerung per LDR;
 */
