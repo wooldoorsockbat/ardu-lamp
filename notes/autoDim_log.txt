@@ -1,0 +1,1283 @@
+# auto-dim during regular daylight
+busy false
+Auto dimmen, Status:
+1
+191
+busy false
+173
+busy false
+191
+busy false
+164
+busy false
+162
+busy false
+151
+busy false
+154
+busy false
+170
+busy false
+171
+busy false
+169
+busy false
+167
+busy false
+165
+busy false
+163
+busy false
+183
+busy false
+191
+busy false
+195
+busy false
+192
+busy false
+240
+busy false
+187
+busy false
+184
+busy false
+184
+busy false
+167
+busy false
+213
+busy false
+189
+busy false
+170
+busy false
+167
+busy false
+161
+busy false
+161
+busy false
+163
+busy false
+166
+busy false
+153
+busy false
+153
+busy false
+156
+busy false
+239
+busy false
+238
+busy false
+151
+busy false
+154
+busy false
+158
+busy false
+159
+busy false
+158
+busy false
+156
+busy false
+165
+busy false
+162
+busy false
+161
+busy false
+164
+busy false
+168
+busy false
+169
+busy false
+168
+busy false
+167
+busy false
+165
+busy false
+163
+busy false
+164
+busy false
+166
+busy false
+169
+busy false
+170
+busy false
+171
+busy false
+169
+busy false
+167
+busy false
+165
+busy false
+164
+busy false
+193
+busy false
+195
+busy false
+170
+busy false
+166
+busy false
+195
+busy false
+157
+busy false
+158
+busy false
+199
+busy false
+195
+busy false
+196
+busy false
+190
+busy false
+169
+busy false
+166
+busy false
+164
+busy false
+199
+busy false
+200
+busy false
+187
+busy false
+190
+busy false
+188
+busy false
+170
+busy false
+148
+busy false
+150
+busy false
+154
+busy false
+172
+busy false
+159
+busy false
+160
+busy false
+158
+busy false
+166
+busy false
+162
+busy false
+187
+busy false
+180
+busy false
+183
+busy false
+209
+busy false
+207
+busy false
+203
+busy false
+195
+busy false
+194
+busy false
+195
+busy false
+170
+busy false
+167
+busy false
+170
+busy false
+174
+busy false
+218
+busy false
+189
+busy false
+183
+busy false
+168
+busy false
+169
+busy false
+185
+busy false
+172
+busy false
+194
+busy false
+193
+busy false
+194
+busy false
+193
+busy false
+188
+busy false
+183
+busy false
+182
+busy false
+184
+busy false
+187
+busy false
+189
+busy false
+176
+busy false
+146
+busy false
+175
+busy false
+174
+busy false
+174
+busy false
+173
+busy false
+175
+busy false
+179
+busy false
+196
+busy false
+189
+busy false
+192
+busy false
+175
+busy false
+166
+busy false
+199
+busy false
+175
+busy false
+142
+busy false
+168
+busy false
+179
+busy false
+200
+busy false
+173
+busy false
+204
+busy false
+169
+busy false
+174
+busy false
+170
+busy false
+170
+busy false
+179
+busy false
+176
+busy false
+156
+busy false
+176
+busy false
+162
+busy false
+178
+busy false
+177
+busy false
+198
+busy false
+163
+busy false
+179
+busy false
+199
+busy false
+196
+busy false
+198
+busy false
+200
+busy false
+173
+busy false
+164
+busy false
+170
+busy false
+187
+busy false
+189
+busy false
+194
+busy false
+128
+busy false
+123
+busy false
+119
+busy false
+119
+busy false
+124
+busy false
+195
+busy false
+129
+busy false
+128
+busy false
+123
+busy false
+189
+busy false
+179
+busy false
+193
+busy false
+165
+busy false
+166
+busy false
+156
+busy false
+152
+busy false
+166
+busy false
+190
+busy false
+189
+busy false
+167
+busy false
+126
+busy false
+126
+busy false
+126
+busy false
+124
+busy false
+123
+busy false
+131
+busy false
+134
+busy false
+134
+busy false
+132
+busy false
+194
+busy false
+167
+busy false
+172
+busy false
+172
+busy false
+176
+busy false
+175
+busy false
+173
+busy false
+128
+busy false
+124
+busy false
+118
+busy false
+123
+busy false
+127
+busy false
+129
+busy false
+241
+busy false
+240
+busy false
+115
+busy false
+117
+busy false
+119
+busy false
+240
+busy false
+124
+busy false
+241
+busy false
+121
+busy false
+120
+busy false
+156
+busy false
+115
+busy false
+117
+busy false
+196
+busy false
+191
+busy false
+182
+busy false
+179
+busy false
+161
+busy false
+181
+busy false
+161
+busy false
+181
+busy false
+194
+busy false
+190
+busy false
+196
+busy false
+195
+busy false
+194
+busy false
+193
+busy false
+193
+busy false
+189
+busy false
+193
+busy false
+192
+busy false
+123
+busy false
+207
+busy false
+129
+busy false
+187
+busy false
+186
+busy false
+190
+busy false
+202
+busy false
+196
+busy false
+185
+busy false
+194
+busy false
+175
+busy false
+152
+busy false
+174
+busy false
+176
+busy false
+176
+busy false
+172
+busy false
+170
+busy false
+166
+busy false
+169
+busy false
+156
+busy false
+175
+busy false
+177
+busy false
+176
+busy false
+175
+busy false
+174
+busy false
+172
+busy false
+170
+busy false
+175
+busy false
+202
+busy false
+167
+busy false
+176
+busy false
+205
+busy false
+166
+busy false
+175
+busy false
+198
+busy false
+180
+busy false
+177
+busy false
+169
+busy false
+161
+busy false
+210
+busy false
+157
+busy false
+176
+busy false
+183
+busy false
+180
+busy false
+198
+busy false
+162
+busy false
+162
+busy false
+196
+busy false
+189
+busy false
+157
+busy false
+160
+busy false
+170
+busy false
+174
+busy false
+175
+busy false
+173
+busy false
+178
+busy false
+165
+busy false
+168
+busy false
+173
+busy false
+173
+busy false
+177
+busy false
+175
+busy false
+172
+busy false
+170
+busy false
+174
+busy false
+177
+busy false
+176
+busy false
+179
+busy false
+205
+busy false
+210
+busy false
+173
+busy false
+185
+busy false
+165
+busy false
+193
+busy false
+178
+busy false
+178
+busy false
+163
+busy false
+161
+busy false
+158
+busy false
+157
+busy false
+168
+busy false
+169
+busy false
+172
+busy false
+160
+busy false
+160
+busy false
+157
+busy false
+176
+busy false
+169
+busy false
+151
+busy false
+156
+busy false
+181
+busy false
+175
+busy false
+161
+busy false
+159
+busy false
+157
+busy false
+157
+busy false
+160
+busy false
+177
+busy false
+175
+busy false
+173
+busy false
+170
+busy false
+170
+busy false
+151
+busy false
+152
+busy false
+170
+busy false
+168
+busy false
+160
+busy false
+175
+busy false
+191
+busy false
+170
+busy false
+170
+busy false
+185
+busy false
+142
+busy false
+184
+busy false
+189
+busy false
+186
+busy false
+186
+busy false
+189
+busy false
+198
+busy false
+188
+busy false
+188
+busy false
+192
+busy false
+181
+busy false
+182
+busy false
+158
+busy false
+193
+busy false
+159
+busy false
+156
+busy false
+154
+busy false
+177
+busy false
+159
+busy false
+162
+busy false
+156
+busy false
+191
+busy false
+147
+busy false
+191
+busy false
+190
+busy false
+186
+busy false
+191
+busy false
+159
+busy false
+193
+busy false
+196
+busy false
+156
+busy false
+163
+busy false
+172
+busy false
+169
+busy false
+142
+busy false
+176
+busy false
+165
+busy false
+174
+busy false
+196
+busy false
+197
+busy false
+171
+busy false
+169
+busy false
+166
+busy false
+164
+busy false
+159
+busy false
+160
+busy false
+180
+busy false
+189
+busy false
+191
+busy false
+190
+busy false
+189
+busy false
+183
+busy false
+181
+busy false
+122
+busy false
+184
+busy false
+189
+busy false
+194
+busy false
+172
+busy false
+194
+busy false
+169
+busy false
+Auto dimmen, Status:
+0
+weiss an
+busy false
+aus
+busy false
+busy false
+aus
+busy false
+aus
+busy false
+weiss an
+busy false
+Auto dimmen, Status:
+1
+182
+busy false
+184
+busy false
+185
+busy false
+180
+busy false
+179
+busy false
+175
+busy false
+176
+busy false
+180
+busy false
+181
+busy false
+179
+busy false
+177
+busy false
+174
+busy false
+171
+busy false
+171
+busy false
+174
+busy false
+178
+busy false
+178
+busy false
+177
+busy false
+173
+busy false
+170
+busy false
+170
+busy false
+173
+busy false
+177
+busy false
+180
+busy false
+178
+busy false
+175
+busy false
+172
+busy false
+171
+busy false
+171
+busy false
+173
+busy false
+176
+busy false
+174
+busy false
+171
+busy false
+169
+busy false
+169
+busy false
+172
+busy false
+174
+busy false
+176
+busy false
+176
+busy false
+173
+busy false
+170
+busy false
+168
+busy false
+169
+busy false
+171
+busy false
+175
+busy false
+175
+busy false
+175
+busy false
+170
+busy false
+169
+busy false
+171
+busy false
+173
+busy false
+Auto dimmen, Status:
+0
+Auto dimmen, Status:
+1
+168
+busy false
+164
+busy false
+155
+busy false
+158
+busy false
+162
+busy false
+164
+busy false
+76
+busy false
+163
+busy false
+160
+busy false
+157
+busy false
+156
+busy false
+158
+busy false
+161
+busy false
+164
+busy false
+164
+busy false
+163
+busy false
+161
+busy false
+158
+busy false
+156
+busy false
+157
+busy false
+161
+busy false
+164
+busy false
+166
+busy false
+167
+busy false
+164
+busy false
+162
+busy false
+158
+busy false
+158
+busy false
+159
+busy false
+163
+busy false
+165
+busy false
+165
+busy false
+163
+busy false
+160
+busy false
+159
+busy false
+213
+busy false
+185
+busy false
+188
+busy false
+189
+busy false
+149
+busy false
+148
+busy false
+177
+busy false
+108
+busy false
+105
+busy false
+237
+busy false
+163
+busy false
+166
+busy false
+167
+busy false
+166
+busy false
+162
+busy false
+160
+busy false
+161
+busy false
+164
+busy false
+167
+busy false
+169
+busy false
+168
+busy false
+165
+busy false
+160
+busy false
+158
+busy false
+157
+busy false
+137
+busy false
+188
+busy false
+188
+busy false
+186
+busy false
+183
+busy false
+181
+busy false
+154
+busy false
+157
+busy false
+161
+busy false
+163
+busy false
+164
+busy false
+162
+busy false
+160
+busy false
+159
+busy false
+156
+busy false
+157
+busy false
+159
+busy false
+163
+busy false
+165
+busy false
+163
+busy false
+161
+busy false
+158
+busy false
+156
+busy false
+158
+busy false
+162
+busy false
+164
+busy false
+165
+busy false
+165
+busy false
+163
+busy false
+159
+busy false
+157
+busy false
+159
+busy false
+162
+busy false
+165
+busy false
+167
+busy false
+163
+busy false
+160
+busy false
+157
+busy false
+158
+busy false
+161
+busy false
+165
+busy false
+167
+busy false
+167
+busy false
+166
+busy false
+164
+busy false
+161
+busy false
+163
+busy false
+164
+busy false
+167
+busy false
+169
+busy false
+171
+busy false
+170
+busy false
+168
+busy false
+165
+busy false
+162
+busy false
+164
+busy false
+166
+busy false
+168
+busy false
+170
+busy false
+170
+busy false
+169
+busy false
+168
+busy false
+165
+busy false
+164
+busy false
+165
+busy false
+167
+busy false
+170
+busy false
+172
+busy false
+169
+busy false
+167
+busy false
+164
+busy false
+163
+busy false
+164
+busy false
+168
+busy false
+171
+busy false
+172
+busy false
+171
+busy false
+173
+busy false
+170
+busy false
+167
+busy false
+165
+busy false
+166
+busy false
+168
+busy false
+173
+busy false
+173
+busy false
+171
+busy false
+170
+busy false
+167
+busy false
+165
+busy false
+164
+busy false
+165
+busy false
+169
+busy false
+170
+busy false
+171
+busy false
+172
+busy false
+170
+busy false
+168
+busy false
+165
+busy false
+165
+busy false
+169
+busy false
+170
+busy false
+172
+busy false
+172
+busy false
+170
+busy false
+168
+busy false
+165
+busy false
+163
+busy false
+164
+busy false
+144
+busy false
+Auto dimmen, Status:
+0
